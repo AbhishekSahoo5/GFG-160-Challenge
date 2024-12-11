@@ -1,0 +1,12 @@
+Given an array of positive integers arr[] of size n, the task is to find second largest distinct element in the array.
+
+Note: If the second largest element does not exist, return -1.
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+[Naive Approach] Using Sorting - O(n*logn) Time and O(1) Space
+
+[Better Approach] Two Pass Search - O(n) Time and O(1) Space
+
+[Expected Approach] One Pass Search - O(n) Time and O(1) Space
